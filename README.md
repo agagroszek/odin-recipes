@@ -1,1 +1,1 @@
-A little recipe page to practice working with HTML, git and git commits.
+A little recipe website to practice working with HTML, git and git commits.
